@@ -1,0 +1,40 @@
+{
+    "version": "1.0",
+    "source": {
+        "client_id": "mp5678dc1a",
+        "employee": "1002440",
+        "password": "R129",
+        "workstation": {
+            "type": "Device",
+            "station": "418"
+        }
+    },
+    "refresh_unit": "True",
+    "token": "",
+    "keep_alive": "False",
+    "single_transaction": "False",
+    "options": {
+        "skip_data": [
+            "defects",
+            "comments",
+            "components",
+            "attributes"
+        ]
+    },
+    "transactions": [
+        {
+            "unit": {
+                "unit_id": "DUMMY-12345SC103000077",
+                "part_number": "",
+                "revision": ""
+            },
+            "commands": [
+                {
+                    "command": {
+                        "name": "End"
+                    }
+                }
+            ]
+        }
+    ]
+}
