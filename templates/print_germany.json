@@ -1,0 +1,28 @@
+{
+  "commands":[
+    {
+      "command":{
+        "name":"PrintLabel",
+        "label_name":"rochelot_usa",
+        "print_queue":"e80p099099" 
+        }
+      }
+    ],
+   "unit":{
+      "unit_id":""
+      }
+},
+{
+  "commands":[
+    {
+      "command":{
+        "name":"RemoveAttribute",
+        "attr_name":"po_info"
+        }
+      }
+    ],
+   "unit":{
+      "unit_id":""
+      }
+}
+

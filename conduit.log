@@ -1,0 +1,42 @@
+2021-05-28 00:21:27,197 |  INFO |  Initializing Instance...
+2021-05-28 00:21:27,197 |  INFO |  Instance Ready!
+2021-05-28 00:21:27,247 |  ERROR |  HTTPConnectionPool(host='sanmmed-conduit.42-q.com', port=18003): Max retries exceeded with url: /conduit (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024CED2DAB50>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-05-28 00:21:58,442 |  INFO |  Logging in...
+2021-05-28 00:21:58,442 |  INFO |  Collecting username and password
+2021-05-28 00:21:58,512 |  WARNING |  Enter the Username/Password
+2021-05-28 00:22:33,405 |  INFO |  Initializing Instance...
+2021-05-28 00:22:33,405 |  INFO |  Instance Ready!
+2021-05-28 00:22:33,424 |  ERROR |  HTTPConnectionPool(host='sanmmed-conduit.42-q.com', port=18003): Max retries exceeded with url: /conduit (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E214BD8C70>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-05-28 00:22:34,921 |  INFO |  True
+2021-05-28 00:22:51,819 |  INFO |  Initializing Instance...
+2021-05-28 00:22:51,819 |  INFO |  Instance Ready!
+2021-05-28 00:22:51,842 |  ERROR |  HTTPConnectionPool(host='sanmmed-conduit.42-q.com', port=18003): Max retries exceeded with url: /conduit (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002241B448CA0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-05-28 00:22:53,748 |  INFO |  True
+2021-05-28 00:31:48,051 |  INFO |  Initializing Instance...
+2021-05-28 00:31:48,051 |  INFO |  Instance Ready!
+2021-05-28 00:31:48,084 |  ERROR |  HTTPConnectionPool(host='sanmmed-conduit.42-q.com', port=18003): Max retries exceeded with url: /conduit (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021E8A4D9400>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-05-28 00:31:49,870 |  INFO |  Trying to Assign the unit to Shop Order!
+2021-05-28 00:31:49,870 |  INFO |  Reforming the Serial#....
+2021-05-28 00:31:49,870 |  INFO |  Barcode <> is reframed to <BW>
+2021-05-28 00:31:49,888 |  INFO |  Reformed Serial# <BW>
+2021-05-28 00:31:49,888 |  INFO |  Ensuring Auto END Command
+2021-05-28 00:31:49,888 |  INFO |  Auto End is True
+2021-05-28 00:31:49,888 |  INFO |  Stage Passing the unit
+2021-05-28 00:31:49,888 |  WARNING |  'main' object has no attribute 'session_assign'
+2021-05-28 00:39:49,672 |  INFO |  Initializing Instance...
+2021-05-28 00:39:49,675 |  INFO |  Instance Ready!
+2021-05-28 00:39:49,708 |  ERROR |  HTTPConnectionPool(host='sanmmed-conduit.42-q.com', port=18003): Max retries exceeded with url: /conduit (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017B94C69400>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2021-05-28 00:39:52,212 |  INFO |  Trying to Assign the unit to Shop Order!
+2021-05-28 00:39:52,212 |  INFO |  Reforming the Serial#....
+2021-05-28 00:39:52,212 |  INFO |  Barcode <> is reframed to <BW>
+2021-05-28 00:39:52,212 |  INFO |  Reformed Serial# <BW>
+2021-05-28 00:39:52,212 |  INFO |  Ensuring Auto END Command
+2021-05-28 00:39:52,212 |  INFO |  Auto End is True
+2021-05-28 00:39:52,212 |  INFO |  Stage Passing the unit
+2021-05-28 00:39:52,224 |  WARNING |  'main' object has no attribute 'session_assign'
+2021-05-28 00:39:58,564 |  INFO |  Logging in...
+2021-05-28 00:39:58,564 |  INFO |  Collecting username and password
+2021-05-28 00:39:58,564 |  WARNING |  Enter the Username/Password
+2021-05-28 00:41:09,586 |  INFO |  Initializing Instance...
+2021-05-28 00:41:09,587 |  INFO |  Instance Ready!
+2021-05-28 00:41:09,633 |  ERROR |  HTTPConnectionPool(host='sanmmed-conduit.42-q.com', port=18003): Max retries exceeded with url: /conduit (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F7C29E7310>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
